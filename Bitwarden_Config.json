@@ -1,0 +1,17 @@
+{
+    "bitwarden_path": "C:\\Junk\\Bitwarden\\bw.exe",
+    "log_path": "C:\\Junk\\Bitwarden\\Bitwarden_Password_Rotation.log",
+    "session_key": "",
+    "ad_domain": "ad.contoso.com",
+    "password_length": "64",
+    "accounts": [
+        {
+            "username": "TestUser",
+            "bitwarden_item": "TestUser-Contoso"
+        },
+        {
+            "username": "TestUser2",
+            "bitwarden_item": "TestUser2-Contoso"
+        }
+    ]
+}
